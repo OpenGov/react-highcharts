@@ -14,9 +14,6 @@
     "type": "git",
     "url": "https://github.com/kirjs/react-highcharts"
   },
-  "peerDependencies": {
-    "react": "*"
-  },
   "bugs": "https://github.com/kirjs/react-highcharts/issues",
   "keywords": [
     "chart",
